@@ -1,7 +1,7 @@
 PCT Website
 ============================================
 
-![PCT ACM Logo](http://raw.github.com/Driste/pctacmwebsite/master/img/logo.png)
+![PCT ACM Logo](https://raw.github.com/Driste/pctacmwebsite/master/img/ACM%20Logo.png)
 
 This is the new website for Penn College ACM.
 Feel free to fork or just push code to it as I will determine what would be appropriate to merge.
