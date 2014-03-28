@@ -27,6 +27,12 @@ meta.foundation-data-attribute-namespace {
 html, body {
   height: 100%; }
 
+.allday{
+	background: #ff9797;
+}.allday:hover{
+	background: #ff7474;
+}
+
 *,
 *:before,
 *:after {
@@ -4625,7 +4631,7 @@ table {
     -webkit-transition: .3s;
     display: table-cell;
     line-height: 1.125rem; }td:hover{
-    background: #c4c4c4;
+    background: #e8e3ff;
 }
 
 /* Standard Forms */
