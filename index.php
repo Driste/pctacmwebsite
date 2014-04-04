@@ -34,7 +34,7 @@
           <div class="panel">
             <h4>LAN Parties</h4>
             <p>LAN Parties are held every other Friday in ATHS 2nd Floor, East Wing. Please check out the ACM Calendar to see the date of the next event.</p>
-            <a href="lanreg.html" class="small button">LAN Registration</a>
+            <a href="http://asok.acm.pct.edu/lanreg.php" class="small button">LAN Registration</a>
           </div>
         </div>
  
@@ -42,7 +42,7 @@
           <div class="panel">
             <h4>BYOC Event</h4>
             <p>BYOC stands for Bring Your Own Computer - it's a 12 hour party filled with video games, food, and a very generous helping of caffinated drinks.</p>
-            <a href="byocreg.html" class="small button">BYOC Registration</a>
+            <a href="http://asok.acm.pct.edu/byoc/byocreg.php" class="small button">BYOC Registration</a>
           </div>
         </div>
       </div>

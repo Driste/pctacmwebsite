@@ -8,7 +8,7 @@
  
     <!-- Main Blog Content -->
     <div class="large-12 columns" role="content">
-        <p><a href="byoc.html">← BYOC Homepage</a></p>
+        <p><a href="http://asok.acm.pct.edu/byoc/">← BYOC Homepage</a></p>
         <h3>Rules for ACM BYOC</h3>
         
         <div class="columns">

@@ -3,10 +3,8 @@
     include('header.php');
 ?>
 
-<hr/>
- 
 <!-- End Header -->
- 
+<br />
 <div class="row">
     <article>
             <div class="large-9 columns" role="content">
@@ -46,12 +44,11 @@
  
       <h5>BYOC Pages</h5>
       <ul class="side-nav">
-        <li><a href="byocreg.html">Registration</a></li>
-        <li><a href="schedule.html">Schedule</a></li>
-        <li><a href="rules.html">Rules</a></li>
-        <li><a href="waiver.html">Legal Waiver</a></li>
-        <li><a href="#">Sponsers</a></li>
-        <li><a href="#">Location</a></li>
+        <li><a href="http://asok.acm.pct.edu/byoc/byocreg.php">Registration</a></li>
+        <li><a href="http://asok.acm.pct.edu/byoc/schedule.php">Schedule</a></li>
+        <li><a href="http://asok.acm.pct.edu/byoc/rules.php">Rules</a></li>
+        <li><a href="http://asok.acm.pct.edu/byoc/waiver.php">Legal Waiver</a></li>
+        <li><a href="http://asok.acm.pct.edu/byoc/sponsors.php">Sponsors</a></li>
       </ul>
  
       <div class="panel">

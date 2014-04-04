@@ -1,17 +1,23 @@
 <?php
-    $name = 'Waiver';
+    $name = 'Sponsors';
     include('header.php');
 ?>
+      <hr/>
+ 
+<!-- End Header -->
+ 
+<div class="row">
+    <article>
+            <div class="large-12 columns" role="content">
+				<p><a href="http://asok.acm.pct.edu/byoc/">← BYOC Homepage</a></p>
+                <h2>Sponsors will be annonced shortly!</h2>
+                <h5><a href="contact.html">If you would like to donate or sponsor, contact us. </a></h5>
+            </div>
+        
+    </article>
     
-    <br />
-    
-    <div class="row">
-        <p><a href="byoc.html">← BYOC Homepage</a></p>
-        <div class="large-12 columns">
-                <iframe style="border:1px solid #adacac;" src="http://acm.pct.edu/BYOC_waiver.pdf" width="100%" height="700px"></iframe>
-        </div>
-    </div>
-    
+</div>
+ 
   <!-- Footer -->
  <hr />
   <footer class="row">

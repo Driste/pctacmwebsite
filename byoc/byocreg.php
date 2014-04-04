@@ -9,8 +9,8 @@
                 //Pre post
                 if(!('POST' == $_SERVER['REQUEST_METHOD'])){
             ?>
-            <form data-abide action="byocreg.php" method="POST">
-                <br /><p><a href="byoc.html">← BYOC Homepage</a></p>
+            <form data-abide action="http://asok.acm.pct.edu/byoc/byocreg.php" method="POST">
+                <br /><p><a href="http://asok.acm.pct.edu/byoc/">← BYOC Homepage</a></p>
                 <fieldset>
                     <legend>BYOC Registration</legend>
                     <div class="row">
